@@ -2,19 +2,24 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    color: #ffffff;
+
+    background-color: #111;
+
+    padding: 10px;
 }
 
 #social-links {
 
-    padding: 10px;
    gap: 16px;
-   padding: 24px 0;
+
    font-size: 24px;
        
 }
 
 #social-links a{
-
+    color: #ffffff;
+    text-decoration: none;
     padding: 10px;
     transition: background .2s;
     border-radius: 50%;

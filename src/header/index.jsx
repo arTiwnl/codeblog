@@ -3,9 +3,10 @@ import "./style.css"
 export function Header (){
 
     return(
-        <div>
-            <h1>Header</h1>
-
+        <div className="header">
+            <h1>Arthur Carvalho</h1>
+            <p>Página para documentar os repositórios utilizando a API do GITHUB</p>
+            
         </div>
     )
 }
